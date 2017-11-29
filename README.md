@@ -9,7 +9,7 @@ A small library that write hello world to you
 
 ## Installation
 
-  `npm install helloworldnode`
+  `npm install helloworld-rainer`
 
 ## Usage
 
