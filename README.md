@@ -2,6 +2,33 @@ Hello World
 =========
 A small library that write hello world to you
 
+# Test out my module
+Create a folder and `package.json` file.
+`````
+{
+  "dependencies": {
+    "helloworld-rainer": "*"
+  }
+}
+`````
+
+then write in command line
+`npm i`
+
+Now create an index.js with content below
+
+````
+var helloIdx = require('helloworld-rainer');
+var helloText = helloIdx('##YOURNAMEHERE');
+
+console.log(helloText);
+````
+*change ##YOURNAMEHERE with your name
+
+and run the code with `node index`
+
+you will see the output with your name... :D
+
 # Build
 
 [![Build Status](https://travis-ci.org/rainerregan/hello-world.svg?branch=master)](https://travis-ci.org/rainerregan/hello-world)
