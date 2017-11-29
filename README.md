@@ -23,7 +23,7 @@ var helloText = helloIdx('##YOURNAMEHERE');
 
 console.log(helloText);
 ````
-*change ##YOURNAMEHERE with your name
+*change ## YOURNAMEHERE with your name
 
 and run the code with `node index`
 
