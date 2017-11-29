@@ -1,0 +1,26 @@
+{
+  "name": "helloworldnode",
+  "version": "0.1.2",
+  "description": "Write hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainerregan/hello-world.git"
+  },
+  "author": "Rainer Regan <rainercoc@gmail.com> (http://www.rainer.ga)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainerregan/hello-world/issues"
+  },
+  "homepage": "https://github.com/rainerregan/hello-world#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
