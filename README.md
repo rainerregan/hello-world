@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/rainerregan/hello-world.svg?branch=master)](https://travis-ci.org/rainerregan/hello-world)
+[![Coverage Status](https://coveralls.io/repos/github/rainerregan/hello-world/badge.svg?branch=master)](https://coveralls.io/github/rainerregan/hello-world?branch=master)
+
 Hello World
 =========
 A small library that write hello world to you
@@ -28,11 +31,6 @@ console.log(helloText);
 and run the code with `node index`
 
 you will see the output with your name... :D
-
-# Build
-
-[![Build Status](https://travis-ci.org/rainerregan/hello-world.svg?branch=master)](https://travis-ci.org/rainerregan/hello-world)
-[![Coverage Status](https://coveralls.io/repos/github/rainerregan/hello-world/badge.svg?branch=master)](https://coveralls.io/github/rainerregan/hello-world?branch=master)
 
 ## Installation
 
